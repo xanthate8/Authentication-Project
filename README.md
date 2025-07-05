@@ -1,4 +1,4 @@
-Wasn't able to deploy to Render, Netlify, etc. 
+Wasn't able to deploy to Render, Netlify, etc. Most likely due to IPv6 problem with render and supabase. 
 
 
 These are env file data (just for viewing purposes):
